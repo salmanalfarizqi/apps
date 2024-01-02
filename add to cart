@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T13:54:37.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="y37EQSqYcMnRD8J9cpeE" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T14:53:51.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Et-SeYgKhOfvk_Jizk4a" version="22.1.16" type="github">
   <diagram name="Page-1" id="UXUFfG5FHblmxmpPyb-v">
-    <mxGraphModel dx="1855" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#fafafa" math="0" shadow="0">
+    <mxGraphModel dx="1484" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#fafafa" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,6 +112,12 @@
         </mxCell>
         <mxCell id="dCIdxlb8vI7poxAxRFij-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Diagram Tambah Keranjang&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=270;height=40;" vertex="1" parent="1">
           <mxGeometry width="830" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="dCIdxlb8vI7poxAxRFij-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Mengklik tambahkan&lt;br&gt;Ke Keranjang&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="09j72A6hQWTPb_1doUpE-3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="90" y="290" as="sourcePoint" />
+            <mxPoint x="180" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
