@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T08:17:37.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p4nApei0v_8NfXS0aAJS" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T08:26:25.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ldSxbDtKHdRceMdFawW_" version="22.1.16" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="2474" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,34 +74,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="410" as="sourcePoint" />
             <mxPoint x="260" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xn0ObYfhN3N2uXmXBi_e-26" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Menampilkan Dashboard&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=1;entryX=0;entryY=0;entryDx=0;entryDy=5;labelBackgroundColor=none;fontColor=default;" edge="1" target="xn0ObYfhN3N2uXmXBi_e-25" parent="1" source="xn0ObYfhN3N2uXmXBi_e-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="415" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xn0ObYfhN3N2uXmXBi_e-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Menampilkan Dashboard&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;labelBackgroundColor=none;fontColor=default;" edge="1" source="xn0ObYfhN3N2uXmXBi_e-25" parent="1" target="xn0ObYfhN3N2uXmXBi_e-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="485" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xn0ObYfhN3N2uXmXBi_e-28" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Menampilkan Dashboard&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="xn0ObYfhN3N2uXmXBi_e-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="500" as="sourcePoint" />
-            <mxPoint x="650" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xn0ObYfhN3N2uXmXBi_e-29" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Menampilkan Tampilan &lt;br&gt;Dashboard&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="xn0ObYfhN3N2uXmXBi_e-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="520" as="sourcePoint" />
-            <mxPoint x="460" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xn0ObYfhN3N2uXmXBi_e-30" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Masuk Ke Dahsboard User&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="xn0ObYfhN3N2uXmXBi_e-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="530" as="sourcePoint" />
-            <mxPoint x="260" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
