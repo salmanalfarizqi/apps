@@ -1,9 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2024-01-02T13:16:36.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.16" etag="XLCiZTqvjgw-HZM3MbTF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-02T13:17:02.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="i-2BUkKdR7lpKDY2kQOK" version="22.1.16" type="github">
   <diagram name="Halaman-1" id="kGBbnmSK1otfOrxIdbJF">
-    <mxGraphModel>
+    <mxGraphModel dx="1142" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LQfOu3skAp5dPYacVRpx-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=200;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="50" width="120" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Register&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="60" width="160" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;" vertex="1" parent="LQfOu3skAp5dPYacVRpx-2">
+          <mxGeometry x="80" y="200" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;System&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="60" width="160" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-5" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;" vertex="1" parent="LQfOu3skAp5dPYacVRpx-4">
+          <mxGeometry x="80" y="230" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="LQfOu3skAp5dPYacVRpx-4">
+          <mxGeometry x="90" y="290" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-7" value="Validasi" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="LQfOu3skAp5dPYacVRpx-4" source="LQfOu3skAp5dPYacVRpx-5" target="LQfOu3skAp5dPYacVRpx-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="125" y="280" />
+              <mxPoint x="125" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Database&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="60" width="160" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;" vertex="1" parent="LQfOu3skAp5dPYacVRpx-8">
+          <mxGeometry x="80" y="260" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="LQfOu3skAp5dPYacVRpx-8">
+          <mxGeometry x="90" y="360" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Email Telah Tersedia&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="LQfOu3skAp5dPYacVRpx-8" target="LQfOu3skAp5dPYacVRpx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="125" y="340" />
+              <mxPoint x="125" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Dasboard&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="60" width="160" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;" vertex="1" parent="LQfOu3skAp5dPYacVRpx-12">
+          <mxGeometry x="80" y="370" width="10" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;User Mengisi Email Dan Password&lt;br&gt;dan tulis ulang password&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=1;entryX=0;entryY=0;entryDx=0;entryDy=5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="LQfOu3skAp5dPYacVRpx-1" target="LQfOu3skAp5dPYacVRpx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="265" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-15" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Email Dan Password&amp;nbsp;&lt;br&gt;Tulis Ulang password&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=1;entryX=0;entryY=0;entryDx=0;entryDy=5;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="LQfOu3skAp5dPYacVRpx-3" target="LQfOu3skAp5dPYacVRpx-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-16" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Tampilkan Pesan&amp;nbsp;&lt;br&gt;Password tidak sesuai &lt;br&gt;dengan yang ditulis ulang&lt;br&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="LQfOu3skAp5dPYacVRpx-6" target="LQfOu3skAp5dPYacVRpx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="815" y="430" as="sourcePoint" />
+            <mxPoint x="735" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Pesan Password tidak sesuai&lt;br&gt;dengan yang ditulis ulang&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="LQfOu3skAp5dPYacVRpx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="430" as="sourcePoint" />
+            <mxPoint x="535" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-18" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Buat Token Untuk User&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry x="0.0556" relative="1" as="geometry">
+            <mxPoint x="1005" y="510" as="sourcePoint" />
+            <mxPoint x="825" y="510" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-19" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Simpan Token Di &lt;br&gt;Local Stoarge&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1">
+          <mxGeometry x="-0.0526" relative="1" as="geometry">
+            <mxPoint x="815" y="540" as="sourcePoint" />
+            <mxPoint x="625" y="540" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-20" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Masuk Ke dashboard &lt;br&gt;Dengan Token&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0526" width="80" relative="1" as="geometry">
+            <mxPoint x="625" y="600.0000000000002" as="sourcePoint" />
+            <mxPoint x="1199.5000000000002" y="599.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="600" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-21" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Tampilkan Halaman dashboard&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0126" relative="1" as="geometry">
+            <mxPoint x="1195" y="710" as="sourcePoint" />
+            <mxPoint x="374.63043478260875" y="709.9999999999999" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-22" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Memasukan data&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="825" y="400" as="sourcePoint" />
+            <mxPoint x="1010" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-23" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Email Telah Terdaftar&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="LQfOu3skAp5dPYacVRpx-10" target="LQfOu3skAp5dPYacVRpx-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="975" y="440" as="sourcePoint" />
+            <mxPoint x="895" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-24" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Tampilkan pesan Email &lt;br&gt;Telah Di gunakan&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="LQfOu3skAp5dPYacVRpx-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="450" as="sourcePoint" />
+            <mxPoint x="740" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LQfOu3skAp5dPYacVRpx-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Pesan Email Telah DI gunakan&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="LQfOu3skAp5dPYacVRpx-3" target="LQfOu3skAp5dPYacVRpx-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="470" as="sourcePoint" />
+            <mxPoint x="410" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
