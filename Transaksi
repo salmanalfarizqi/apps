@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T02:42:33.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AhPDneerWD4uOw7jBPsr" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T03:03:47.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4sAmuEm7qwXGc8J391xl" version="22.1.16" type="github">
   <diagram name="Halaman-1" id="brdlggvFkKXiz2iN1OaK">
-    <mxGraphModel dx="1274" dy="228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2705" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,12 +273,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FW4TILvPsAUUmN7qef5y-61" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Dasboard&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};size=80;labelBackgroundColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="690" width="160" height="700" as="geometry" />
-        </mxCell>
-        <mxCell id="FW4TILvPsAUUmN7qef5y-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;rounded=1;" parent="FW4TILvPsAUUmN7qef5y-61" vertex="1">
-          <mxGeometry x="80" y="370" width="10" height="300" as="geometry" />
-        </mxCell>
         <mxCell id="FW4TILvPsAUUmN7qef5y-63" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;User Mengisi Email Dan Password&lt;br&gt;dan tulis ulang password&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=1;entryX=0;entryY=0;entryDx=0;entryDy=5;labelBackgroundColor=none;fontColor=default;" parent="1" source="FW4TILvPsAUUmN7qef5y-50" target="FW4TILvPsAUUmN7qef5y-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1450" y="905" as="sourcePoint" />
@@ -302,37 +296,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1520" y="1070" as="sourcePoint" />
             <mxPoint x="1440" y="1070" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FW4TILvPsAUUmN7qef5y-67" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Buat Token Untuk User&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
-          <mxGeometry x="0.0556" relative="1" as="geometry">
-            <mxPoint x="1850" y="1140" as="sourcePoint" />
-            <mxPoint x="1670" y="1140" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FW4TILvPsAUUmN7qef5y-68" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Simpan Token Di &lt;br&gt;Local Stoarge&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=1;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
-          <mxGeometry x="-0.0526" relative="1" as="geometry">
-            <mxPoint x="1660" y="1170" as="sourcePoint" />
-            <mxPoint x="1470" y="1170" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FW4TILvPsAUUmN7qef5y-69" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Masuk Ke dashboard &lt;br&gt;Dengan Token&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="0.0526" width="80" relative="1" as="geometry">
-            <mxPoint x="1470" y="1230.0000000000002" as="sourcePoint" />
-            <mxPoint x="2044.5000000000002" y="1230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1545" y="1230" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FW4TILvPsAUUmN7qef5y-70" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Tampilkan Halaman dashboard&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.0126" relative="1" as="geometry">
-            <mxPoint x="2100" y="1350" as="sourcePoint" />
-            <mxPoint x="1279.6304347826087" y="1350" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FW4TILvPsAUUmN7qef5y-71" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Memasukan data&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
@@ -360,7 +323,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FW4TILvPsAUUmN7qef5y-75" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Diagram Register&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=260;height=40;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="650" width="980" height="770" as="geometry" />
+          <mxGeometry x="1180" y="650" width="880" height="770" as="geometry" />
         </mxCell>
         <mxCell id="FW4TILvPsAUUmN7qef5y-143" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=200;labelBackgroundColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2310" y="210" width="120" height="700" as="geometry" />
@@ -792,6 +755,42 @@
             <mxPoint x="240" y="1095" as="sourcePoint" />
             <mxPoint x="89.70000000000005" y="1095" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mY4xXhZCzLpEDgJyuU9n-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1672.53" y="1160.06" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mY4xXhZCzLpEDgJyuU9n-43" value="Buat Token" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="mY4xXhZCzLpEDgJyuU9n-42" parent="1" source="FW4TILvPsAUUmN7qef5y-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1677.53" y="1140.06" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1708" y="1140" />
+              <mxPoint x="1708" y="1180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mY4xXhZCzLpEDgJyuU9n-44" value="Email dan password berhasil dii&lt;br&gt;simpan" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="FW4TILvPsAUUmN7qef5y-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="1120" as="sourcePoint" />
+            <mxPoint x="1770" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mY4xXhZCzLpEDgJyuU9n-45" value="Direct Ke Haman User" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="FW4TILvPsAUUmN7qef5y-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="1179.72" as="sourcePoint" />
+            <mxPoint x="1580" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mY4xXhZCzLpEDgJyuU9n-47" value="Simpan Token Di database" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="FW4TILvPsAUUmN7qef5y-58">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1682.53" y="1190" as="sourcePoint" />
+            <mxPoint x="1762.53" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mY4xXhZCzLpEDgJyuU9n-48" value="Berhasil Di Simpan" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="FW4TILvPsAUUmN7qef5y-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850" y="1220" as="sourcePoint" />
+            <mxPoint x="1770" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
